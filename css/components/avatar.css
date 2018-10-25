@@ -1,0 +1,16 @@
+.avatar {
+  border-radius: 50%;
+  height: 50px;
+}
+
+.avatar-bg {
+  height: 150px;
+}
+
+.avatar-md {
+  height: 75px;
+}
+
+.avatar-sm {
+  height: 15px;
+}

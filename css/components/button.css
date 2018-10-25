@@ -1,0 +1,30 @@
+.btn {
+  background-color: red;
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.btn-danger {
+  background-color: red;
+}
+
+.btn-primary {
+  background-color: blue;
+}
+
+.btn-success {
+  background-color: green;
+}
+
+.btn-bg {
+  font-size: 30px;
+  padding: 20px 30px;
+}
+
+.btn-sm {
+  font-size: 10px;
+  padding: 2px 5px; 
+}
